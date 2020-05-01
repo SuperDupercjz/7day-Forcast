@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
     <title>Document</title>
 </head>
 <body>
@@ -11,10 +12,14 @@
 <form id="form" action=""><input id="inPut" type="text"><button type="submit" id="button" > Submit </button></form>
 
 </div>
-<div>
+<div id="weatherContainer">
     <p id="name"></p>
+    <p id="date"></p>
     <p id="temp"></p>
+    <span id="uv"></span>
+    <div id=fiveday></div>
 </div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
     <script
   src="https://code.jquery.com/jquery-3.5.0.min.js"
   integrity="sha256-xNzN2a4ltkB44Mc/Jz3pT4iU1cmeR0FkXs4pru/JxaQ="
