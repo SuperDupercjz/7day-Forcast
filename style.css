@@ -14,8 +14,9 @@ background-repeat: no-repeat;
 padding: 50px 20px;
 margin: 50px 270px;
 text-align: center;
-font-size: 60px;
+}
+#sweet{
+   color: rgb(255, 0, 179);
+   font-size: 60px;
 font-weight: 900;
-color: rgb(60, 0, 255);
-
 }
