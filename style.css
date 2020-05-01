@@ -1,8 +1,21 @@
 body{
     color: white;
-    background-image: linear-gradient(to top, rgb(0, 217, 255),rgb(187, 255, 0));
+    background-image: linear-gradient(to top, rgb(8, 185, 255),rgb(255, 255, 255));
     background-repeat: no-repeat;
 }
-#weatherContainer{
+.center{
+    text-align: center;
+}
+#header{
+ border: 5px black solid;
+background-image: url(https://media.giphy.com/media/PLJzdMVafDLTW/giphy.gif);
+background-position: center;
+background-repeat: no-repeat;
+padding: 50px 20px;
+margin: 50px 270px;
+text-align: center;
+font-size: 60px;
+font-weight: 900;
+color: rgb(60, 0, 255);
 
 }
