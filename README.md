@@ -1,1 +1,1 @@
-https://superdupercjz.github.io/7day-Forcast/
+https://superdupercjz.github.io/Weather-Forcast/
